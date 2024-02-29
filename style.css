@@ -46,3 +46,8 @@ display: inline-block;
 .input-area{
     margin: 30px;
 }
+
+#grid{
+    margin-left: center;
+    margin-right: center;
+}
